@@ -1,0 +1,19 @@
+.footer {
+  display: flex;
+  justify-content: center;
+  margin-top: 92px;
+  font-size: 14px;
+  line-height: 16px;
+  font-family: "inter";
+}
+@media screen and (max-width: 768px) {
+  .footer {
+    margin-top: 88px;
+  }
+}
+@media screen and (max-width: 320px) {
+  .footer {
+    line-height: 14px;
+    margin-top: 64px;
+  }
+}
