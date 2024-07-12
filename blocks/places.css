@@ -126,7 +126,7 @@
     padding-left: 16px;
     padding-right: 16px;
   }
-  .place__title {
+  .places__title {
     display: flex;
     align-self: self-start;
     max-width: 288px;
@@ -142,7 +142,7 @@
     max-width: 288px;
     line-height: 14.52px;
   }
-  .place__image {
+  .places__image {
     max-width: 320px;
     max-height: 320px;
   }
